@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+.git
+data/london_crime_by_lsoa.csv
+
